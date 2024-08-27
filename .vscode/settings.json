@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "mw24_io_cfg.h": "c",
+        "hal_nrf.h": "c",
+        "hal_nrf_reg.h": "c"
+    }
+}
